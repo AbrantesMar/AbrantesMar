@@ -1,6 +1,6 @@
 # Márcio Abrantes 
 
-iOS developer | .NET Developer | FPV Pilot
+iOS Developer | .NET Developer | FPV Pilot
 <br>
 <br>
     ![.NET](https://img.shields.io/badge/-.net-black?style=flat-square&logo=.net)
