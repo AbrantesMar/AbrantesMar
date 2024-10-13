@@ -17,7 +17,7 @@ iOS Developer | .NET Developer | FPV Pilot
 
 <br>
 
-- :office: &nbsp;Principal Engineer Sr na **[Justa]**
+- :office: &nbsp;Tech Lead na **Bradesco**
 - :speech_balloon: &nbsp;Converso sobre: Drones de corrida(**[FPV]**), Games, Aventuras, Arquitetura de Software e Filhos 
 - :writing_hand: &nbsp;Compartilho conhecimento no **[Medium]**
 - :computer: &nbsp;Sobre minhas experiências profissionais **[LinkedIn]**
@@ -35,4 +35,3 @@ iOS Developer | .NET Developer | FPV Pilot
 [github]: https://github.com/AbrantesMar
 [twitch]: https://www.twitch.tv/abrantes_fpv
 [fpv]: https://www.youtube.com/@MarcioAbrantesFPV/videos
-[Justa]: https://github.com/justapagamentos
